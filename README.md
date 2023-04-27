@@ -3,7 +3,13 @@ Batch script to put your PC to sleep
 
 -Before launching Eve.bat read this
 
--Launch Eve.bat press a key to say that you are sure to put your PC to sleep and it will go to sleep
+-Right-click Show more options and create a shortcut
+
+-Right-click on Eve.bat - Shortcut and rename (F2) and give it the name Eve
+
+-Fact right click on Eve.bat - Shortcut and make properties change icon OK Browse... and put Icon.ico
+
+-Launch Eve press a key to say that you are sure to put your PC to sleep and it will go to sleep
 
 -Some line from the creator
 
