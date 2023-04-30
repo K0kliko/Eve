@@ -1,7 +1,7 @@
 # Eve
 Batch script to put your PC to sleep
 
-(https://github.com/K0kliko/Eve/blob/main/ray-so-export.png)
+![Cover](https://github.com/K0kliko/Eve/blob/main/ray-so-export.png)
 
 
 -Before launching Eve.exe read this
