@@ -1,9 +1,6 @@
 # Eve
 Batch script to put your PC to sleep
 
-![Cover](https://github.com/K0kliko/Eve/blob/main/ray-so-export.png)
-
-
 -Before launching Eve.exe read this
 
 -Launch Eve press a press y and enter to start the script press n to cancel the script
@@ -16,3 +13,5 @@ Thank you a thousand times for using my project because it is my first code and 
 Otherwise it's my first code and I hope my code will be useful to you ! <3
 
 by Kokliko
+
+![Cover](https://github.com/K0kliko/Eve/blob/main/ray-so-export.png)
