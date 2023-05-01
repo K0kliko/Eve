@@ -16,6 +16,7 @@ set /p choix=Do you really want to put your PC to sleep (y/n)
     echo Your PC will go to sleep.
     pause
     shutdown /h
+    exit
 
 :no
     cls
