@@ -14,4 +14,4 @@ Otherwise it's my first code and I hope my code will be useful to you ! <3
 
 by Kokliko
 
-![Cover](https://user-images.githubusercontent.com/131816378/235336873-cbe01d3c-d6e8-4869-acfa-30589507eee1.png)
+![Cover](https://user-images.githubusercontent.com/131816378/235773065-9bc31a73-6bd2-4d80-b36a-10e7b1f97ccd.png)
