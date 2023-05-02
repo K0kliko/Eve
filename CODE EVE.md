@@ -21,6 +21,7 @@ set /p choix=Do you really want to put your PC to sleep (y/n)
 :no
     cls
     echo Your PC will not sleep.
+    pause
     exit
 
 :ERROR
