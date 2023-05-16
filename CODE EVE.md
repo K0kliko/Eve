@@ -4,7 +4,7 @@ title Eve
 cls
 
 :choice
-set /p choix=Do you really want to put your PC to sleep (y/n)
+set /p choice=Do you really want to put your PC to sleep (y/n)
 
     if /i "%choix%"=="y" (goto :yes)
     if /i "%choix%"=="n" (goto :no)
